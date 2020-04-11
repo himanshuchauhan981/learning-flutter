@@ -1,3 +1,3 @@
 # learning-flutter
 
-## In this repository, I had practice to make different screen using flutter
+## In this repository, I had practice to make different screens using flutter
